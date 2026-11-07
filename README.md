@@ -15,6 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-tataroi/)
 [![GitHub](https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhilipTataroii)
+[![Resume](https://img.shields.io/badge/Resume-View_My_CV-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_CV_LINK)
 
 </div>
 
@@ -119,18 +120,6 @@ Additional training in GPS/RTK navigation, agricultural machinery, sensors, tech
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipTataroii&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipTataroii&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 I'm interested in **junior development roles, remote opportunities, international teams and software collaboration**.
@@ -140,6 +129,8 @@ I'm interested in **junior development roles, remote opportunities, internationa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-tataroi/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhilipTataroii)
+
+[![Resume](https://img.shields.io/badge/Resume-View_My_CV-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_CV_LINK)
 
 ---
 
