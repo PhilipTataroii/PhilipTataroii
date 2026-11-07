@@ -116,7 +116,7 @@ Additional training in GPS/RTK navigation, agricultural machinery, sensors, tech
 |:---|:---|
 | 🇷🇴 **Romanian** | Fluent |
 | 🇷🇺 **Russian** | Fluent |
-| 🇬🇧 **English** | Basic (A1–A2), actively improving |
+| 🇬🇧 **English** | Basic (A2-B1), actively improving |
 
 ---
 
